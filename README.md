@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @goodralu
 - 👀 I’m interested in AI
-- 🌱 I’m currently learning pytorch
-- 💞️ I’m looking to collaborate on machine learning algorithms
 - 📫 How to reach me goodralu@gmail.com
 
 <!---
